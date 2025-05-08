@@ -1,6 +1,3 @@
-
-LaunchDarkly Labs hosts experimental (unsupported) software and demos by LaunchDarkly. See [https://github.com/launchdarkly](https://github.com/launchdarkly) for our official GitHub organization.
-
 # What is LaunchDarkly?
 
 LaunchDarkly serves a suite of tools that help you ship your code safer, faster, and more effectively with whatever language and frameworks you use today.
